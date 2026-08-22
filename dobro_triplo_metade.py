@@ -12,6 +12,6 @@ print(f"Triplo: {triplo:g}")
 print(f"Metade: {metade:g}")
 
 #VALORES DE TESTE
-*Entrada: 8 , Dobro: 16, Triplo: 24, Metade: 4
-*Entrada: 2,5 , Dobro: 5, Triplo: 7,5, Metade: 1,25
-*Entrada: -4 , Dobro: -8, Triplo: -12, Metade: -2
+# Entrada: 8 , Dobro: 16, Triplo: 24, Metade: 4
+# Entrada: 2,5 , Dobro: 5, Triplo: 7,5, Metade: 1,25
+# Entrada: -4 , Dobro: -8, Triplo: -12, Metade: -2
